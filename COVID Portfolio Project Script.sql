@@ -1,6 +1,5 @@
 SELECT *
 FROM CovidDeaths1
-Where continent is not null
 Order By 3
 
 SELECT*
